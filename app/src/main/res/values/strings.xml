@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AisleChallenge</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_home">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="upgrade_message">Premium members can\nview all their likes at once</string>
+    <string name="interested_in_you">Interested In You</string>
+    <string name="personal_messages_to_you">Personal messages to you</string>
+    <string name="notes">Notes</string>
+    <string name="mobile_num">9876543212</string>
+    <string name="country_code">+91</string>
+    <string name="spaced_mobile_num">+91 9876543212</string>
+    <string name="otp">1234</string>
+    <string name="continue_string">Continue</string>
+    <string name="enter_the_otp">Enter the\nOTP</string>
+    <string name="enter_your_phone_number">Enter your\nPhone Number</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="upgrade">Upgrade</string>
+</resources>
